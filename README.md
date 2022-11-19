@@ -18,14 +18,20 @@ Somente correção quanto a tipagem dos dados de algumas colunas
 
 # Métricas:
 kg/ton
+
 Orçado anual
+
 R$/m³
+
 R$/ton
 
 Relacionamentos
 
 Geral (n) - (1)dCalendário = muitos para um (n-1)
+
 Geral (n) - (1)dCalendário1 = muitos para um (n-1) * (Relacionamento desativado)
+
 Geral (n) - (1)dCalendário2 = muitos para um (n-1) * (Relacionamento desativado)
+
 Geral (n) - (1)dCod Produtos = muitos para um (n-1)
 
