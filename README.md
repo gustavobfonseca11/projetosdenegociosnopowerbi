@@ -1,4 +1,4 @@
-# Comparativo de informações relativos a Produtos Químicos em Indústria de Produção de Etanol
+# Comparativo de informações relativas a Produtos Químicos em Indústria de Produção de Etanol
 
 # Dashboard de Produtos Químicos
 Foi solicitado pela gerência industrial um comparativo de informações relativos a custos e quantidade utilizada de todos os produtos químicos utilizados na indústria a fim de projetar os custos e quantidades para a próxima safra.
